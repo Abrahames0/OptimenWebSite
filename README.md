@@ -16,6 +16,13 @@ El proyecto consiste en el rediseño de la página oficial de la empresa Optimen
 * Crear un usuario administrador general 
 * Crear usuarios creadores de contenido
 
+# Modelo de bases de datos
+Se como base de datos mongo atlas, react y nodejs
+ # *Colección de eventos*
+ 
+ # *Colección de noticias*
+ 
+ 
 
 
 
