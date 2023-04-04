@@ -19,8 +19,13 @@ El proyecto consiste en el rediseño de la página oficial de la empresa Optimen
 # Modelo de bases de datos
 Se usa como base de datos mongo atlas, react y nodejs
  ## *Colección de eventos*
- 
+ ![image](https://user-images.githubusercontent.com/114689978/229676128-1061e5cc-6950-497e-88c8-4117dbf43b7e.png)
  ## *Colección de noticias*
+ ![image](https://user-images.githubusercontent.com/114689978/229676147-14a7ea80-4c3b-4bc9-aacb-825364d3dd45.png)
+ ## *Colección de usuarios*
+ ![image](https://user-images.githubusercontent.com/114689978/229676178-7427c1f2-f566-4a77-9fda-6ffd38445e54.png)
+
+ 
  
  
 
