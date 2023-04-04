@@ -25,12 +25,16 @@ Para este proyecto se usa como base de datos mongo atlas, react y nodejs
 # Diagrama de actividades
 ## *Administrador root*
 El administrador ingresa a la página, posteriormente inicia sesión si proporciona los datos correctos podrá dirigirse a él apartados y brindar permisos y asi mismo podra quitar los permisos, en caso de que el administrador no ingresos los datos correctos la autenticación presentara una falla en el sistema.
+
 ![image](https://user-images.githubusercontent.com/114689978/229687620-b6461d04-00c1-4f62-8754-f73954ba8a52.png)
 ## *Usuario visitante*
 El usuario visitante busca la página de optimen oficial y da clik sobre ella para entrar, tendrá la opción de navegar sin problemas dentro de la misma y poder abandonar la página.
-![image](https://user-images.githubusercontent.com/114689978/229687697-9946ca84-8eef-4659-bb24-f839fe485b76.png)
+
+ ![image](https://user-images.githubusercontent.com/114689978/229687697-9946ca84-8eef-4659-bb24-f839fe485b76.png)
 ## *Creadores de contenido*
 El creador de contenido ingresa a la página, posteriormente inicia sesión si proporciona los datos correctos podrá dirigirse a él apartado de agregar eventos o noticias nuevas, en caso de que el creador de contenido no ingrese los datos correctos la autenticación presentara una falla en el sistema y por lo tanto no podrá hacer modificaciones.
+
+
 ![image](https://user-images.githubusercontent.com/114689978/229687816-059322c2-a50a-4d84-acaf-cac227784d87.png)
 
 
