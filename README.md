@@ -16,7 +16,7 @@ El proyecto consiste en el rediseño de la página oficial de la empresa Optimen
 * Crear un usuario administrador general 
 * Crear usuarios creadores de contenido
 # Modelo de bases de datos
-Para este proyecto se usa como base de datos mongo atlas, react y nodejs 
+Para este proyecto se usa como base de datos MongoDB Atlas, React y Node.js 
  ## *Colección de eventos*
  ![image](https://user-images.githubusercontent.com/114689978/229676128-1061e5cc-6950-497e-88c8-4117dbf43b7e.png)
  ## *Colección de noticias*
