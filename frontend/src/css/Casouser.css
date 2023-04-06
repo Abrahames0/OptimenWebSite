@@ -3,6 +3,7 @@
   height: 255px;
   width: auto;
   padding: 2rem;
+  text-align: center;
 }
 
 .titulo-Custom{
@@ -33,6 +34,7 @@ text-align: center;
 .img img{
    width:100%;
 }
+
 
 section.sec{
   height: 350px;

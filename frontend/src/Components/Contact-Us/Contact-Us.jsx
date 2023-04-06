@@ -2,6 +2,8 @@
 
 import React, { useState, useRef } from "react"; // Importamos React, useState y useRef desde React
 import "../../css/Conctact.css"; // Importamos el archivo CSS para el formulario de contacto
+import { FormattedMessage } from "react-intl";
+
 
 import ReCAPTCHA from "react-google-recaptcha"; // Importamos la librería de ReCAPTCHA para el formulario
 
@@ -46,7 +48,12 @@ const ContactForm = () => {
 
   return (
     <form onSubmit={handleSubmit}>
-      <label htmlFor="name">Name</label>
+      <label htmlFor="name">
+        <FormattedMessage
+              id="cont.nam"
+              defaultMessage="Name"
+            />
+            </label>
       <input
         type="text"
         id="name"
@@ -56,7 +63,12 @@ const ContactForm = () => {
         required
       />
 
-      <label htmlFor="email">Email</label>
+      <label htmlFor="email">
+      <FormattedMessage
+              id="cont.ema"
+              defaultMessage="Email"
+            />
+      </label>
       <input
         type="email"
         id="email"
@@ -66,7 +78,12 @@ const ContactForm = () => {
         required
       />
 
-      <label htmlFor="phone">Phone</label>
+      <label htmlFor="phone">
+      <FormattedMessage
+              id="cont.pho"
+              defaultMessage="Phone"
+            />
+        </label>
       <input
         type="tel"
         id="phone"
@@ -75,18 +92,38 @@ const ContactForm = () => {
         onChange={(e) => setPhone(e.target.value)}
       />
 
-      <label htmlFor="subject">Subject</label>
+      <label htmlFor="subject">
+      <FormattedMessage
+              id="cont.sub"
+              defaultMessage="Subject"
+            />
+        </label>
       <select
         id="subject"
         name="subject"
         value={subject}
         onChange={(e) => setSubject(e.target.value)}
       >
-        <option value="Information">Information</option>
-        <option value="Services">Services</option>
+        <option value="Information">
+        <FormattedMessage
+              id="cont.sub.inf"
+              defaultMessage="Information"
+            />
+          </option>
+        <option value="Services">
+        <FormattedMessage
+              id="cont.sub.ser"
+              defaultMessage="Services"
+            />
+        </option>
       </select>
 
-      <label htmlFor="message">Message</label>
+      <label htmlFor="message">
+      <FormattedMessage
+              id="cont.mes"
+              defaultMessage="Message"
+            />
+      </label>
       <textarea
         id="message"
         name="message"
@@ -101,10 +138,21 @@ const ContactForm = () => {
           onChange={onChange}
         />
         {capchaValido === false && (
-          <div className="error-captcha">Por favor acepta el captcha</div>
+          <div className="error-captcha">
+            <FormattedMessage
+          id="cont.alet.cap"
+          defaultMessage="Please accept the captcha"
+        />
+        </div>
         )}
       </div>
-      <button type="submit">Submit</button>
+      <div >
+      <button type="submit"><FormattedMessage
+          id="cont.subm"
+          defaultMessage="Submit"
+        />
+        </button>
+      </div>
     </form>
   );
 };

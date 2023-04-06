@@ -92,7 +92,7 @@ const Customers = () => {
         <div className="slide">
           <img
             src="https://optimen.com.mx/media/external/idea_gto.png"
-           alt=""
+            alt=""
           />
         </div>
         <div className="slide">

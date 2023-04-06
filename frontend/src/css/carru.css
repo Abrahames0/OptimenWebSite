@@ -37,6 +37,7 @@
 
 .slider {
   background-color: transparent;
+  overflow: auto;
 }
 
 .slide img {
@@ -81,9 +82,10 @@
 }
 
 .slide-track {
-  animation: scroll 50s linear infinite;
-  display: flex;
+  /*animation: scroll 50s linear infinite;*/
+  display:flex;
   width: calc(250px * 20);
+  overflow: hidden;
 }
 
 .slide {
