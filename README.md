@@ -2,7 +2,7 @@
 ## *Integrantes*
 * Arvizu Sotelo Fernando 
 + Duarte Vázquez José Carlos
-- Espinoza Gémez Abraham Salvador 
+- Espinoza Gómez Abraham Salvador 
 * Fuentes Cabrera Itzel Alessandra
 + Martínez Aldavera Alma Yesenia
 
@@ -40,6 +40,13 @@ El creador de contenido ingresa a la página, posteriormente inicia sesión si p
 ![image](https://user-images.githubusercontent.com/114689978/229687816-059322c2-a50a-4d84-acaf-cac227784d87.png)
 
 
+## *Link de la carpeta que contiene toda a documentación*
+https://drive.google.com/drive/u/0/folders/1NdcHkPhFKsGhFt8wZFVXAttiHMD2Uvhj
+
+## *Link de la página estática en Wix*
+https://abtaham0212.wixsite.com/my-site
++ Imagen de vista Home 
+![image](https://user-images.githubusercontent.com/106613946/230467749-d86a8906-b0d0-48be-87ac-41fa7a3ecc65.png)
 
  
  
