@@ -11,7 +11,7 @@ import ap2 from "../../img/AboutUs/airplane2.png";
 import ap3 from "../../img/AboutUs/CABINA3.png";
 import avion from "../../img/AboutUs/viaje.png";
 
-import "../../css/valores.css";
+import "../../css/Valores.css";
 
 // Importa FormattedMessage de React-Intl
 import { FormattedMessage } from "react-intl";
