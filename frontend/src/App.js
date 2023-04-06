@@ -1,4 +1,4 @@
-//Autor: Espinoza Gomez Abraham Salvador
+//Autor:  Espinoza Gómez Abraham Salvador
 
 // Importamos los componentes de las páginas y otros elementos
 import Customers from './Pages/Customers';
@@ -6,7 +6,7 @@ import Dashboard from './Pages/Home';
 import AboutUs from './Pages/About-Us';
 import ContactUs from './Pages/Contact-Us';
 import News from './Pages/News';
-import FloatingButton from "./Components/home/FloatingButton"
+import FloatingButton from "./Components/Home/FloatingButton"
 
 // Importamos React, estilos y componentes de enrutamiento de React
 import React from 'react';

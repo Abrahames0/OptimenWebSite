@@ -1,4 +1,4 @@
-//Autor: Fernando 
+//Autor: Arvizu Sotelo Fernando 
 
 import React, { Fragment } from "react"; // Importa React y Fragment desde la biblioteca 'react'
 import "../../css/Casouser.css"; // Importa el archivo CSS para estilos personalizados
@@ -7,9 +7,9 @@ import Button from "react-bootstrap/Button"; // Importa el componente Button de 
 
 import InfiniteCarousel from "react-leaf-carousel"; // Importa el componente InfiniteCarousel de la biblioteca 'react-leaf-carousel'
 
-import uno from "../../img/Customers/uno.jpg"; 
-import dos from "../../img/Customers/dos.jpg"; 
-import tres from "../../img/Customers/Azul.jpg"; 
+import FRONTIER from "../../img/Customers/FRONTIER.jpg"; 
+import IBERIA from "../../img/Customers/IBERIA.jpg"; 
+import Azul from "../../img/Customers/Azul.jpg"; 
 import cuatro from "../../img/Customers/cuatro.jpg"; 
 import cinco from "../../img/Customers/United.jpg"; 
 import seis from "../../img/Customers/seis.jpg"; 
@@ -45,7 +45,7 @@ const Customs = () => {
                 <div className="img">
                   {" "}
                   {/* Crea un div con la clase 'img'*/}
-                  <img src={uno} alt="1" />{" "}
+                  <img src={FRONTIER} alt="1" />{" "}
                   {/* Inserta la imagen 'uno' con un atributo 'alt' */}
                 </div>
               </div>
@@ -57,7 +57,7 @@ const Customs = () => {
             >
               <div className="customer">
                 <div className="img">
-                  <img src={dos} alt="Ahora pasa"></img>
+                  <img src={IBERIA} alt="Ahora pasa"></img>
                 </div>
               </div>
             </Button>
@@ -68,7 +68,7 @@ const Customs = () => {
             >
               <div className="customer">
                 <div className="img">
-                  <img src={tres} alt="ALTAM"></img>
+                  <img src={Azul} alt="ALTAM"></img>
                 </div>
               </div>
             </Button>

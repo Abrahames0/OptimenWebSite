@@ -1,4 +1,4 @@
-//Autor: Alma Yessenia
+//Autor: Martínez Aldavera Alma Yesenia 
 
 // Importa React y algunos componentes de React Bootstrap
 import React from "react";

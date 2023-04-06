@@ -1,4 +1,4 @@
-//Autor: Abraham Espinoza
+//Autor: Espinoza Gómez Abraham Salvador 
 
 import React from "react";
 import "../../css/Carru.css";

@@ -1,4 +1,4 @@
-//Autor: Abraham Espinoza
+//Autor: Espinoza Gómez Abraham Salvador  
 
 import React, { useState } from "react";
 import { motion } from "framer-motion";

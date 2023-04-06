@@ -1,8 +1,8 @@
 //Autor: Abraham Espinoza
 
 import React, { useState } from 'react'; // Se importan React y useState desde la librería React
-import MensajesIngles from './../lang/en-US.json'; // Se importa el archivo de mensajes en inglés
-import MensajesEspañol from './../lang/es-MX.json'; // Se importa el archivo de mensajes en español
+import MensajesIngles from '../lang/en-US.json'; // Se importa el archivo de mensajes en inglés
+import MensajesEspañol from '../lang/es-MX.json'; // Se importa el archivo de mensajes en español
 import { IntlProvider } from 'react-intl'; // Se importa el componente IntlProvider de la librería react-intl
 
 // Se crea un contexto para el lenguaje

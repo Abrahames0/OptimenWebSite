@@ -1,12 +1,11 @@
-//Autor: Fernando 
+//Autor: Arvizu Sotelo Fernando 
 
 // Importa la hoja de estilo Pag.css desde una ruta relativa
 import '../../css/Pag.css';
 
 // Importa los componentes Customer y Customs desde las rutas relativas especificadas
-import Customer from './customer';
-import Customs from './customs';
-
+import Customer from "./Customer";
+import Customs from "./Customs"
 import { FormattedMessage } from "react-intl";
 
 

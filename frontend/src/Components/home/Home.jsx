@@ -1,11 +1,11 @@
-//Autor: Itzel Alessandra
+//Autor: Fuentes Cabrera Itzel Alessandra
 
 import React, { useContext } from "react";
 import uno from "../../img/Home/uno.png";
 import "../../css/Home.css"; // Importa hoja de estilo externa
 
 import { FormattedMessage } from "react-intl";
-import { langContext } from "../../context/langContext";
+import { langContext } from "../../context/LangContext";
 
 const Homes = () => {
   const idioma = useContext(langContext); // Obtiene el lenguaje actual de la aplicación desde el contexto

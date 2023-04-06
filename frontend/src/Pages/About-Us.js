@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Nadvar from "../layouts/Nadvar";
 import Fotter from "../layouts/Footer";
 //import Carrusel from "../Components/aboutus/About-Us";
-import Valores from "../Components/aboutus/Valores";
+import Valores from "../Components/About-Us/Valores";
 
 // Definición del componente "AboutUs"
 function AboutUs() {

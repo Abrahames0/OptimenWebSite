@@ -1,4 +1,4 @@
-//Autor: Alma Yessenia 
+//Autor: Martínez Aldavera Alma Yesenia 
 
 import { useState } from 'react'; // Importa el hook 'useState' de React
 import { Carousel } from 'react-bootstrap'; // Importa el componente Carousel de React Bootstrap
