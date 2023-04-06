@@ -10,13 +10,13 @@ import InfiniteCarousel from "react-leaf-carousel"; // Importa el componente Inf
 import FRONTIER from "../../img/Customers/FRONTIER.jpg"; 
 import IBERIA from "../../img/Customers/IBERIA.jpg"; 
 import Azul from "../../img/Customers/Azul.jpg"; 
-import cuatro from "../../img/Customers/cuatro.jpg"; 
-import cinco from "../../img/Customers/United.jpg"; 
-import seis from "../../img/Customers/seis.jpg"; 
-import siete from "../../img/Customers/Endeavor.jpg"; 
-import ocho from "../../img/Customers/Kalitta.jpg"; 
-import nueve from "../../img/Customers/AeroMexico.jpg"; 
-import diez from "../../img/Customers/CopaAir.jpg"; 
+import GOL from "../../img/Customers/GOL.jpg"; 
+import United from "../../img/Customers/United.jpg"; 
+import Alaska from "../../img/Customers/Alaska.jpg"; 
+import Endeavor from "../../img/Customers/Endeavor.jpg"; 
+import Kalitta from "../../img/Customers/Kalitta.jpg"; 
+import AeroMexico from "../../img/Customers/AeroMexico.jpg"; 
+import CopaAir from "../../img/Customers/CopaAir.jpg"; 
 const Customs = () => {
   return (
     <Fragment>
@@ -79,7 +79,7 @@ const Customs = () => {
             >
               <div className="customer">
                 <div className="img">
-                  <img src={cuatro} alt="nada"></img>
+                  <img src={GOL} alt="nada"></img>
                 </div>
               </div>
             </Button>
@@ -90,7 +90,7 @@ const Customs = () => {
             >
               <div className="customer">
                 <div className="img">
-                  <img src={cinco} alt="sisisi"></img>
+                  <img src={United} alt="sisisi"></img>
                 </div>
               </div>
             </Button>
@@ -101,7 +101,7 @@ const Customs = () => {
             >
               <div className="customer">
                 <div className="img">
-                  <img src={seis} alt="ggg"></img>
+                  <img src={Alaska} alt="ggg"></img>
                 </div>
               </div>
             </Button>
@@ -112,7 +112,7 @@ const Customs = () => {
             >
               <div className="customer">
                 <div className="img">
-                  <img src={siete} alt="ggg"></img>
+                  <img src={Endeavor} alt="ggg"></img>
                 </div>
               </div>
             </Button>
@@ -123,7 +123,7 @@ const Customs = () => {
             >
               <div className="customer">
                 <div className="img">
-                  <img src={ocho} alt="ggg"></img>
+                  <img src={Kalitta} alt="ggg"></img>
                 </div>
               </div>
             </Button>
@@ -134,7 +134,7 @@ const Customs = () => {
             >
               <div className="customer">
                 <div className="img">
-                  <img src={nueve} alt="ggg"></img>
+                  <img src={AeroMexico} alt="ggg"></img>
                 </div>
               </div>
             </Button>
@@ -145,7 +145,7 @@ const Customs = () => {
             >
               <div className="customer">
                 <div className="img">
-                  <img src={diez} alt="ggg"></img>
+                  <img src={CopaAir} alt="ggg"></img>
                 </div>
               </div>
             </Button>
