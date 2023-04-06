@@ -11,7 +11,6 @@ import Implementation from "../../img/Servicio/IMPLEMENTATION.png"; // importa l
 import Interfaces from "../../img/Servicio/INTERFACES.png"; // importa la imagen de desarrollo de interfaces
 import Innovation from "../../img/Servicio/INNOVATION.png"; // importa la imagen de innovación
 import Business from "../../img/Servicio/BUSINESS.png"; // importa la imagen de desarrollo de reglas de negocio
-
 import { FormattedMessage } from "react-intl";
 
 const Services = () => {
