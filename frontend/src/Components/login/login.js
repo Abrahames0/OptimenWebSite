@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import "../../css/Login.css"; // Importación del archivo CSS donde se encuentra la clase "login-container"
+import "../../css/login.css"; // Importación del archivo CSS donde se encuentra la clase "login-container"
 
 function Login() {
   // Estados para almacenar el username y la contraseña

@@ -1,7 +1,7 @@
 //Autor: Abraham Espinoza
 
 import React, { useState } from "react";
-import '../../css/News.css';
+import '../../css/news.css';
 
 // Componente reutilizable NewsCard que acepta props para título, descripción, imagen y fecha
 const NewsCard = ({ title, description, imageUrl, date }) => {
