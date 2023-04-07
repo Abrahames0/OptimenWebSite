@@ -24,7 +24,7 @@ function Customers() {
        id="custo.our" 
        defaultMessage="Our Customers" 
        />
-</h1>
+      </h1>
 
       {/* Un elemento div con una clase textio que contiene un elemento h3 que describe los servicios y compromisos de la compañía */}
       <div className="textio">
