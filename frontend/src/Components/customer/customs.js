@@ -7,16 +7,16 @@ import Button from "react-bootstrap/Button"; // Importa el componente Button de 
 
 import InfiniteCarousel from "react-leaf-carousel"; // Importa el componente InfiniteCarousel de la biblioteca 'react-leaf-carousel'
 
-import FRONTIER from "../../img/customers/FRONTIER.jpg"; 
-import IBERIA from "../../img/customers/IBERIA.jpg"; 
-import Azul from "../../img/customers/Azul.jpg"; 
-import GOL from "../../img/customers/GOL.jpg"; 
-import United from "../../img/customers/United.jpg"; 
-import Alaska from "../../img/customers/Alaska.jpg"; 
-import Endeavor from "../../img/customers/Endeavor.jpg"; 
-import Kalitta from "../../img/customers/Kalitta.jpg"; 
-import AeroMexico from "../../img/customers/AeroMexico.jpg"; 
-import CopaAir from "../../img/customers/CopaAir.jpg"; 
+import FRONTIER from "../../img/Customers/FRONTIER.jpg"; 
+import IBERIA from "../../img/Customers/IBERIA.jpg"; 
+import Azul from "../../img/Customers/Azul.jpg"; 
+import GOL from "../../img/Customers/GOL.jpg"; 
+import United from "../../img/Customers/United.jpg"; 
+import Alaska from "../../img/Customers/Alaska.jpg"; 
+import Endeavor from "../../img/Customers/Endeavor.jpg"; 
+import Kalitta from "../../img/Customers/Kalitta.jpg"; 
+import AeroMexico from "../../img/Customers/AeroMexico.jpg"; 
+import CopaAir from "../../img/Customers/CopaAir.jpg"; 
 const Customs = () => {
   return (
     <Fragment>

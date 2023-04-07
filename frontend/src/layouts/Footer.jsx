@@ -2,7 +2,7 @@
 
 // Importa los módulos necesarios
 import React from "react"; 
-import "../css/footer.css"; 
+import "../css/Footer.css"; 
 import { FormattedMessage } from "react-intl"; 
 
 // Define el componente funcional "Footer"
