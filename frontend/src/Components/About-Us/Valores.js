@@ -87,15 +87,15 @@ function Valores() {
                 <FormattedMessage id="vall.val" defaultMessage="VALUES" />
               </h3>
               <p className="card-text text-secondary">
-                <FormattedMessage id="vall.valte" defaultMessage="VALUES" />
+                <FormattedMessage id="vall.valte" defaultMessage="Trustworthy" />
                 <br />
-                <FormattedMessage id="vall.valte2" defaultMessage="VALUES" />
+                <FormattedMessage id="vall.valte2" defaultMessage="Respect" />
                 <br />
-                <FormattedMessage id="vall.valte3" defaultMessage="VALUES" />
+                <FormattedMessage id="vall.valte3" defaultMessage="Integrity" />
                 <br />
-                <FormattedMessage id="vall.valte4" defaultMessage="VALUES" />
+                <FormattedMessage id="vall.valte4" defaultMessage="Team work" />
                 <br />
-                <FormattedMessage id="vall.valte5" defaultMessage="VALUES" />
+                <FormattedMessage id="vall.valte5" defaultMessage="InnovationSupport" />
                 <br />
               </p>
             </div>

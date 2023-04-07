@@ -6,7 +6,7 @@ import ES from "../../img/Home/espana.png"; // Importa la imagen de la bandera e
 import ING from "../../img/Home/english.png"; // Importa la imagen de la bandera inglesa
 import idiomas from "../../img/Home/idioma.png"; // Importa la imagen del ícono de idiomas
 
-import { langContext } from "../../context/LangContext"; // Importa el contexto de idioma definido en otro lugar del código
+import { langContext } from "../../context/langContext"; // Importa el contexto de idioma definido en otro lugar del código
 
 const FloatingButton = () => {
   const [showOptions, setShowOptions] = useState(false); // Define el estado inicial del botón flotante, estableciendo la opción de mostrar opciones como "falso"

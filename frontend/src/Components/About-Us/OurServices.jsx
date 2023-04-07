@@ -5,12 +5,13 @@ import "../../css/Services.css"; // importa el archivo CSS para estilos específ
 import React from "react"; // importa la librería React
 import Card from "react-bootstrap/Card"; // importa el componente Card de la librería React Bootstrap
 
-import Auditing from "../../img/Servicio/AUDITING.png"; // importa la imagen de auditoría
-import Consultancy from "../../img/Servicio/CONSULTANCY.png"; // importa la imagen de consultoría
-import Implementation from "../../img/Servicio/IMPLEMENTATION.png"; // importa la imagen de implementación
-import Interfaces from "../../img/Servicio/INTERFACES.png"; // importa la imagen de desarrollo de interfaces
-import Innovation from "../../img/Servicio/INNOVATION.png"; // importa la imagen de innovación
-import Business from "../../img/Servicio/BUSINESS.png"; // importa la imagen de desarrollo de reglas de negocio
+import Auditing from "../../img/servicio/AUDITING.png"; // importa la imagen de auditoría
+import Consultancy from "../../img/servicio/CONSULTANCY.png"; // importa la imagen de consultoría
+import Implementation from "../../img/servicio/IMPLEMENTATION.png"; // importa la imagen de implementación
+import Interfaces from "../../img/servicio/INTERFACES.png"; // importa la imagen de desarrollo de interfaces
+import Innovation from "../../img/servicio/INNOVATION.png"; // importa la imagen de innovación
+import Business from "../../img/servicio/BUSINESS.png"; // importa la imagen de desarrollo de reglas de negocio
+
 import { FormattedMessage } from "react-intl";
 
 const Services = () => {

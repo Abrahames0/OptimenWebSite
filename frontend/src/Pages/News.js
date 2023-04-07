@@ -2,7 +2,7 @@
 
 import React from "react";
 import Nadvar from '../layouts/Nadvar'; //importa el componente de navegación
-import New from '../Components/News/News'; //importa el componente de noticias
+import New from '../Components/news/news'; //importa el componente de noticias
 import Footer from '../layouts/Footer'; //importa el componente de pie de página
 
 function News() {

@@ -4,8 +4,8 @@
 import '../../css/Pag.css';
 
 // Importa los componentes Customer y Customs desde las rutas relativas especificadas
-import Customer from "./Customer";
-import Customs from "./Customs"
+import Customer from "./customer";
+import Customs from "./customs"
 import { FormattedMessage } from "react-intl";
 
 

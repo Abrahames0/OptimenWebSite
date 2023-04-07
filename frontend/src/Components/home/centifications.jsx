@@ -4,10 +4,10 @@ import React from "react"; // Importa React
 import "../../css/Certifications.css"; // Importa el archivo de estilo CSS de las certificaciones
 
 
-import esr from "../../img/Home/Certifications/esr.png"; // Importa la imagen ESR
-import gto from "../../img/Home/Certifications/marca-gto.png"; // Importa la imagen GTO
-import iso from "../../img/Home/Certifications/ISO27001.png"; // Importa la imagen ISO27001
-import boeing from "../../img/Home/Certifications/img.png"; // Importa la imagen Boeing
+import esr from "../../img/Home/certifications/esr.png"; // Importa la imagen ESR
+import gto from "../../img/Home/certifications/marca-gto.png"; // Importa la imagen GTO
+import iso from "../../img/Home/certifications/ISO27001.png"; // Importa la imagen ISO27001
+import boeing from "../../img/Home/certifications/img.png"; // Importa la imagen Boeing
 import { FormattedMessage } from "react-intl"; // Importa el componente FormattedMessage de react-intl
 
 const Certifications = () => { // Crea el componente Certifications

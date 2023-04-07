@@ -4,7 +4,7 @@
 import React, { useState, useEffect } from "react";
 import Container from 'react-bootstrap/Container';
 import "../css/Nadvar.css"; // Estilos de la barra de navegación.
-import logo from "../img/Nadvar/logo_optimenn.ico"; // Ruta de la imagen del logo.
+import logo from "../img/nadvar/logo_optimenn.ico"; // Ruta de la imagen del logo.
 import { FormattedMessage } from "react-intl";
 
 // Declaración del componente Navbar.

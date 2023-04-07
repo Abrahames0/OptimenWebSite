@@ -5,7 +5,7 @@ import uno from "../../img/Home/uno.png";
 import "../../css/Home.css"; // Importa hoja de estilo externa
 
 import { FormattedMessage } from "react-intl";
-import { langContext } from "../../context/LangContext";
+import { langContext } from "../../context/langContext";
 
 const Homes = () => {
   const idioma = useContext(langContext); // Obtiene el lenguaje actual de la aplicación desde el contexto
