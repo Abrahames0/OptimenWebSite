@@ -1,14 +1,10 @@
 # Optimen Web Site
 ## Carpeta del Back-End
 
-Carpeta que contiene el modelo del controlador, en esta carpeta tenemos distintos archivos y carpets qu se encargan de la conexión del Modelo Vista del Cliente que envia Datos y hace los Cambios dentro de una Conexión al Sistema de Base de Datos NoSQL Mongo Atlas, en un cluster gratuito destinado alas pruebas del sistema Basicas
+Dentro de la carpeta del controlador, se encuentra el modelo que gestiona la conexión del Modelo Vista del Cliente con el Sistema de Base de Datos NoSQL Mongo Atlas, en un clúster gratuito destinado para pruebas básicas del sistema.
 
+En esta carpeta, se pueden encontrar diferentes archivos y subcarpetas que trabajan en conjunto para crear una conexión a la base de datos que permite el acceso a su contenido, como eventos y noticias, así como la posibilidad de crear, eliminar, actualizar o leer la información de sus tablas.
 
-Dentro de esta se encuentran las Carpetas de  models, controllers y components
-Estos componentes funcionan en conjunto para crear una conexión a la base de 
-datos que consume lo contenido dentro de ella tales como eventos y noticias asi como acceso a sus tablas, ya sea para crear, eliminar, actualizar o leer la infomación contenida.
+En la subcarpeta "models", se pueden encontrar los modelos de vista de tipo .js que controlan cada una de las tres partes del sistema: noticias, eventos y usuarios de la aplicación web.
 
-Los models, son modelos de vista de tipo js que controla cada una de las tres partes de lo que son las noticias, eventos o 
-usuarios del Sistema en la App Web.
-
-La carpeta de Controllers son los modelos js para controlar los envios y formatos de información de cada parte del sistema, dentro de este se encutran 4 funciones básicas del back para ejecución del sistema CRUD que hace cambios dentro de la Base de Datos para la información y datos de la Tabla.
+Por otro lado, en la subcarpeta "controllers", se pueden encontrar los modelos .js que controlan los envíos y formatos de la información de cada parte del sistema. Además, dentro de esta subcarpeta se encuentran las cuatro funciones básicas del back-end para la ejecución del sistema CRUD que permiten hacer cambios dentro de la Base de Datos en la información y datos de la tabla.
