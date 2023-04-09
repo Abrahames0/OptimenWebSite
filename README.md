@@ -1,6 +1,6 @@
 # Optimen Web Site
 ## *Integrantes*
-* Arvizu Sotelo Fernando 
+* Arvizu Sotelo Fernando Si
 + Duarte Vázquez José Carlos
 - Espinoza Gómez Abraham Salvador 
 * Fuentes Cabrera Itzel Alessandra
