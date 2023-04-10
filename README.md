@@ -268,6 +268,6 @@ Contacto.
 ## Participantes
 * [Arvizu Sotelo Fernando]()
 * [Duarte Vázquez José Carlos]()
-* [Espinoza Gómez Abraham Salvador]()
+* [Espinoza Gómez Abraham Salvador](https://github.com/Abrahames0)
 * [Fuentes Cabrera Itzel Alessandra](https://github.com/ItzelFuentes)
 * [Martínez Aldavera Alma Yesenia](https://github.com/YeseniaMartinez24)
