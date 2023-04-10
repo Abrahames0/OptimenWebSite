@@ -270,4 +270,4 @@ Contacto.
 * [Duarte Vázquez José Carlos]()
 * [Espinoza Gómez Abraham Salvador]()
 * [Fuentes Cabrera Itzel Alessandra]()
-* [Martínez Aldavera Alma Yesenia]()
+* [Martínez Aldavera Alma Yesenia](https://github.com/YeseniaMartinez24)
