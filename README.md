@@ -269,5 +269,5 @@ Contacto.
 * [Arvizu Sotelo Fernando]()
 * [Duarte Vázquez José Carlos]()
 * [Espinoza Gómez Abraham Salvador]()
-* [Fuentes Cabrera Itzel Alessandra]()
+* [Fuentes Cabrera Itzel Alessandra](https://github.com/ItzelFuentes)
 * [Martínez Aldavera Alma Yesenia](https://github.com/YeseniaMartinez24)
