@@ -1,3 +1,5 @@
+//Archivo de configuracion de base de datos.
+
 import mongoose from 'mongoose';
 
 mongoose.connect('mongodb+srv://optimen:optimen@cluster0.imu9wo0.mongodb.net/Optimen', {

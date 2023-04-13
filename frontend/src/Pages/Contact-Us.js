@@ -1,4 +1,4 @@
-//Autor: Espinoza Gómez Abraham Salvador
+//Autor: Espinoza Gomez Abraham Salvador
 
 import Nadvar from '../layouts/Nadvar'; // Importa el componente de la barra de navegación
 import Fotter from "../layouts/Footer"; // Importa el componente del pie de página

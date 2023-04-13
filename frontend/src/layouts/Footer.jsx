@@ -57,8 +57,8 @@ function Footer() {
         </div>
       </div>
       {/* Sección de derechos de autor */}
-      <div className="footer-bottom">
-        <p className="footer-text">
+      <div className="footer-bottom" href="/Login">
+        <p className="footer-text" href="/login">
           {/* Mensaje localizado del texto de derechos de autor */}
           <FormattedMessage id="footer.derechos" defaultMessage="© 2023 Optimen SA de CV. All rights reserved..."/>
         </p>

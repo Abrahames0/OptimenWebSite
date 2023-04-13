@@ -1,3 +1,5 @@
+//Esquema de base de datos para Noticias
+//Fernando Arvizu Sotelo
 import { Schema, model } from "mongoose";
 
 const  newsSchema = new Schema({

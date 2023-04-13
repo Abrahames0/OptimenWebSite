@@ -1,7 +1,7 @@
 //Autor: Arvizu Sotelo Fernando 
 
 import React,{Fragment} from "react"; // Importa React y Fragment desde la biblioteca react
-import "../../css/casouser.css"; // Importa el archivo CSS de estilo para el componente
+import "../../css/Casouser.css"; // Importa el archivo CSS de estilo para el componente
 
 import InfiniteCarousel from "react-leaf-carousel"; // Importa el componente de carrusel de la biblioteca react-leaf-carousel
 

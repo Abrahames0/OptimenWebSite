@@ -1,7 +1,7 @@
 //Autor: Arvizu Sotelo Fernando 
 
 import React, { Fragment } from "react"; // Importa React y Fragment desde la biblioteca 'react'
-import "../../css/casouser.css"; // Importa el archivo CSS para estilos personalizados
+import "../../css/Casouser.css"; // Importa el archivo CSS para estilos personalizados
 
 import Button from "react-bootstrap/Button"; // Importa el componente Button de la biblioteca 'react-bootstrap'
 

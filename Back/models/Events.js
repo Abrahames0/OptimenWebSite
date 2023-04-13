@@ -1,3 +1,6 @@
+//Esquema de base de datos para Eventos
+//Yesenia martinez e Itzel Alexandra
+
 import { Schema, model } from "mongoose";
 
 const  eventsSchema = new Schema({
@@ -7,6 +10,10 @@ const  eventsSchema = new Schema({
         unique: true
     },
     evento:{
+        type: String,
+        require:true
+    },
+    descripcion:{
         type: String,
         require:true
     },

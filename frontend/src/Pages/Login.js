@@ -1,6 +1,6 @@
 //Autor: Espinoza Gómez Abraham Salvador
 
-import Log from '../Components/Login/login';
+import Log from '../Components/login/login';
 
 function Login() {
     return (

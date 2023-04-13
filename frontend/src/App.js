@@ -6,6 +6,7 @@ import Dashboard from './Pages/Home';
 import AboutUs from './Pages/About-Us';
 import ContactUs from './Pages/Contact-Us';
 import News from './Pages/News';
+import Login from './Pages/Login'
 import FloatingButton from "./Components/home/FloatingButton";
 
 // Importamos React, estilos y componentes de enrutamiento de React
@@ -24,6 +25,7 @@ export function App() {
           <Route exact path="/Customers" element={<Customers />} />
           <Route exact path="/About-Us" element={<AboutUs />} />
           <Route exact path="/News" element={<News />} />
+          <Route exact path='/Login' element={<Login />} />
           <Route exact path="/Contact-Us" element={<ContactUs />} />
           <Route exact path="*" element={<Dashboard />} />
         </Routes>

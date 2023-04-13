@@ -1,6 +1,6 @@
 //Autor: Espinoza Gómez Abraham Salvador  
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import "../../css/login.css"; // Importación del archivo CSS donde se encuentra la clase "login-container"
 
@@ -8,6 +8,16 @@ function Login() {
   // Estados para almacenar el username y la contraseña
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
+
+  const [data, setData] = useState([]);
+
+  useEffect(() => {
+    fetch("http://localhost:4000/admin/resources/User")
+      .then(response => console.log(response))
+
+
+    
+  });
 
   // Funciones para actualizar el estado de username y password al cambiar los inputs correspondientes
   const handleUsernameChange = (event) => {
