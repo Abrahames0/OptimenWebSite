@@ -45,9 +45,6 @@
       </ul>
     </li>       
     <li><a href="#guias">Guias</a></li>
-    <li><a href="#contribucion">Contribución</a></li>
-    <li><a href="#licencia">licencia</a></li>
-    <li><a href="#contacto">Contacto</a></li>
     <li><a href="#participantes">Participantes</a></li>
   </ol>
 </details>
@@ -320,15 +317,6 @@ Opciones para personas con discapacidad
 En esta opción se podrán hacer los cambios de acuerdo con las necesidades del usuario, en la podrá cambiar el contraste, resaltar los enlaces, hacer más grande el texto, agregar espacio entre el texto, entre otro, estos son solo algunos de los cambios que se pueden hacer. 
 
 ![image](https://user-images.githubusercontent.com/114689978/231236295-e2862517-929a-4a5d-b708-5d6a1d8907d4.png)
-
-## Contribucion
-Contribucion.
-
-## Licencia
-Licencia.
-
-## Contacto
-Contacto.
 
 ## Participantes
 * [Arvizu Sotelo Fernando]()
