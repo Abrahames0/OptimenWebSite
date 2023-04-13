@@ -1,7 +1,7 @@
 //Autor: Martínez Aldavera Alma Yessenia y  Espinoza Gómez Abraham Salvador
 
 import React, { useState, useRef } from "react"; // Importamos React, useState y useRef desde React
-import "../../css/Conctact.css"; // Importamos el archivo CSS para el formulario de contacto
+import "../../css/conctact.css"; // Importamos el archivo CSS para el formulario de contacto
 import { FormattedMessage } from "react-intl";
 
 

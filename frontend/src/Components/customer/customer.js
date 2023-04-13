@@ -1,19 +1,19 @@
 //Autor: Arvizu Sotelo Fernando 
 
 import React,{Fragment} from "react"; // Importa React y Fragment desde la biblioteca react
-import "../../css/Casouser.css"; // Importa el archivo CSS de estilo para el componente
+import "../../css/casouser.css"; // Importa el archivo CSS de estilo para el componente
 
 import InfiniteCarousel from "react-leaf-carousel"; // Importa el componente de carrusel de la biblioteca react-leaf-carousel
 
 import Button from 'react-bootstrap/Button'; // Importa el componente de botón de la biblioteca react-bootstrap
 
-import uno from "../../img/Customers/TAP.jpg"; // Importa la imagen 1 desde la carpeta de imágenes
-import dos from "../../img/Customers/Volaris.jpg"; // Importa la imagen 2 desde la carpeta de imágenes
-import tres from "../../img/Customers/Boeing.jpg"; // Importa la imagen 3 desde la carpeta de imágenes
-import cuatro from "../../img/Customers/Interjet.jpg"; // Importa la imagen 4 desde la carpeta de imágenes
-import cinco from "../../img/Customers/Latam.jpg"; // Importa la imagen 5 desde la carpeta de imágenes
-import seis from "../../img/Customers/Avianca.jpg"; // Importa la imagen 6 desde la carpeta de imágenes
-import siete from "../../img/Customers/Jeppesen.jpg"; // Importa la imagen 7 desde la carpeta de imágenes
+import uno from "../../img/customers/TAP.jpg"; // Importa la imagen 1 desde la carpeta de imágenes
+import dos from "../../img/customers/Volaris.jpg"; // Importa la imagen 2 desde la carpeta de imágenes
+import tres from "../../img/customers/Boeing.jpg"; // Importa la imagen 3 desde la carpeta de imágenes
+import cuatro from "../../img/customers/Interjet.jpg"; // Importa la imagen 4 desde la carpeta de imágenes
+import cinco from "../../img/customers/Latam.jpg"; // Importa la imagen 5 desde la carpeta de imágenes
+import seis from "../../img/customers/Avianca.jpg"; // Importa la imagen 6 desde la carpeta de imágenes
+import siete from "../../img/customers/Jeppesen.jpg"; // Importa la imagen 7 desde la carpeta de imágenes
 
 
 const Customers = () => { // Define el componente Customers como una función de flecha
