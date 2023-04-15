@@ -24,7 +24,7 @@ const News = () => {
   return (
     <div className="news-container">
 
-      {news.map((record) => (
+      {news?.map((record) => (
         <>
           <Card className="bg-dark text-white">
             <Card.Img src={record.params.imagen} alt={record.params.titulo} />

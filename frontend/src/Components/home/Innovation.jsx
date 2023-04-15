@@ -24,7 +24,9 @@ const Innovation = () => { // Define el componente Innovation como una función 
     <div className=''>
         <h1 className='services-center' ><FormattedMessage id="Home.innovation" defaultMessage="Innovation"/></h1> 
       <div className="boxesContainer">
-        {events.map((card) => ( // Mapea la matriz de eventos y muestra cada evento en una "caja"
+
+        
+        {events?.map((card) => ( // Mapea la matriz de eventos y muestra cada evento en una "caja"
           <div className="cardBoxs" key={card.params.id}>
             <div className="card-inno">
               <div className="front-inno">
