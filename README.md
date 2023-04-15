@@ -28,15 +28,7 @@
         <li><a href="#diagrama-de-componentes">Diagrama de Componentes</a></li>
         <li><a href="#diagrama-de-actividadess">Diagrama de Actividades</a></li>
       </ul>
-    </li>    
-    <li>
-      <a href="#implementación">Implementación</a>
-      <ul>
-        <li><a href="#estándares-codificación">Estándares Codificación</a></li>
-        <li><a href="#arquitectura">Arquitectura</a></li>
-        <li><a href="#código-fuente">Código Fuente</a></li>
-      </ul>
-    </li>      
+    </li>          
     <li>
       <a href="#pruebas">Pruebas</a>
       <ul>
@@ -153,23 +145,6 @@ El usuario visitante busca la página de optimen oficial y da clik sobre ella pa
 El creador de contenido ingresa a la página, posteriormente inicia sesión si proporciona los datos correctos podrá dirigirse a él apartado de agregar eventos o noticias nuevas, en caso de que el creador de contenido no ingrese los datos correctos la autenticación presentara una falla en el sistema y por lo tanto no podrá hacer modificaciones.
 
 ![image](https://user-images.githubusercontent.com/114689978/230805858-715933b7-5574-4c0e-beb0-e8dadfe3a433.png)
-
-<!-- Implementación del proyecto -->
-## Implementación.
-En ésta sección se describe  los artefactos generados en base a la solución.
-
-<!-- Estándares de Codificación -->
-#### Estándares Codificación.
-Estándares empleados en la codificación
-
-<!-- Arquitectura MVC y Middleware -->
-#### Arquitectura.
-Definir los patrones empleados y de seguridad.
-
-<!-- Código Fuente -->
-#### Código Fuente.
-Código Fuente de la solución
-
 
 <!-- Pruebas proyecto -->
 ## Pruebas.
