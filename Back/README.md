@@ -1,4 +1,10 @@
 # Optimen Web Site
+#### Levantar el back-end
+ 
+Ejecute lo siguiente en su terminal dentro del proyecto
+* cd Back
+* npm start
+* se abrira en automatico una ventana en su navegador y podra visualizar la el página
 ## Carpeta del Back-End
 
 Dentro de la carpeta del controlador, se encuentra el modelo que gestiona la conexión del Modelo Vista del Cliente con el Sistema de Base de Datos NoSQL Mongo Atlas, en un clúster gratuito destinado para pruebas básicas del sistema.
