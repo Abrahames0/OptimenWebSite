@@ -1,8 +1,8 @@
 # Optimen Web Site
 #### Levantar el back-end 
 Ejecute lo siguiente en su termnal dentro del proyecto
-cd Back
-npm start
+* cd Back
+* npm start
 ### Front-End Vista del Usuario
 La carpeta de los componentes del Front-End creada con la librería de React.js. Dentro de esta carpeta se ha creado todo lo relacionado con los modelos de la vista de los usuarios. Estos incluyen diversos apartados que cumplen con el propósito de la página, los cuales son:
 
