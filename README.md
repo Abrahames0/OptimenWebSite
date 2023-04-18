@@ -190,12 +190,12 @@ Instalación del Software
 
 4.	El proyecto requiere Node.js y npm. Si no los tiene instalados, debe descargarlos e instalarlos antes de continuar, si ya lo tiene puede pasar al paso 5.
 
-*	Para instalar Node.js, visite el sitio web de Node.js y descargue la versión adecuada para su sistema operativo. Siga las instrucciones en pantalla para instalar Node.js en su computadora.
+*	Para instalar Node.js, visite el sitio web de Node.js (https://nodejs.org/en) y descargue la versión adecuada para su sistema operativo. Siga las instrucciones en pantalla para instalar Node.js en su computadora.
 
 *	npm se instalará automáticamente cuando instale Node.js.
-Una vez que tenga Node.js y npm instalados, abra una ventana de línea de comandos dentro de Visual Studio Code y navegue hasta el directorio donde descomprimió el código fuente.
+Una vez que tenga Node.js y npm instalados,  abra una ventana de línea de comandos dentro de Visual Studio Code y navegue hasta el directorio donde descomprimió el código fuente.
 
-*	Ejecute el comando: npm install para instalar todas las dependencias necesarias.
+*	Ejecute el comando: npm install para instalar todas las dependencias necesarias la carpeta de llama node_modules.
 
 5.	Una vez que se hayan completado los pasos anteriores, puede instalar las dependencias del back-end y front-end. Abra un terminal con el comando: Ctrl + ñ
 
